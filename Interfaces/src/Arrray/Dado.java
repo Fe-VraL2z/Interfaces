@@ -37,8 +37,8 @@ public class Dado {
             }
         }
 
-        for (int k = 1; k < 6; k++) {
-            System.out.println("cayo: " + (k) + ":" + numeroDeDado[k] + "veces");
+        for (int i = 1; i < 6; i++) {
+            System.out.println("cayo: " + (i) + ":" + numeroDeDado[i] + "veces");
 
         }
 
